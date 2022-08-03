@@ -25,32 +25,28 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: jamie.baxter@dal.ca
+  phone: 902-474-7113
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: 6061 University Avenue
+    city: Halifax 
+    region: Nova Scotia
+    postcode: 'B3H 4R2'
+    country: Canada
+    country_code: CA
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '44.638433133308055' 
+    longitude: '-63.58764024441712'
+  directions: The front doors to the Weldon law building are an accessible entrance -- turn left from the main lobby to find the elevators to the 3rd floor. Or enter Weldon from Henry Street and take the open stairway. 
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    
+  appointment_url: 
   contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+    - icon: 
+      icon_pack: 
+      name: 
+      link: ''
+    
 
 design:
   columns: '2'
