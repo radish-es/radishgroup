@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Adrienne is currently going into her second year at the Schulich School of Law. She is initially from Toronto, Ontario, and developed an interest in food law during her Bachelor of Arts and Science at McMaster University. While studying there, she became particularly concerned about the effects of urban sprawl on available farmland throughout Ontario. Her interests in food law have evolved since then to include various topics within the food system, such as urban agriculture, food sovereignty, and sustainable farming practices.
+bio: 
 
 interests:
 
@@ -44,3 +44,4 @@ user_groups:
 - Group Members
 ---
 
+Adrienne is currently going into her second year at the Schulich School of Law. She is initially from Toronto, Ontario, and developed an interest in food law during her Bachelor of Arts and Science at McMaster University. While studying there, she became particularly concerned about the effects of urban sprawl on available farmland throughout Ontario. Her interests in food law have evolved since then to include various topics within the food system, such as urban agriculture, food sovereignty, and sustainable farming practices.

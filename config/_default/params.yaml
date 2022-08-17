@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Jamie Baxter. This work is licensed under {license}'
+    notice: '© {year} Jamie Baxter. This work is licensed under {license}. <br/> <a href="https://www.flaticon.com/free-icons/letter-b" title="letter b icons">Letter b icons created by popo2021 - Flaticon</a>'
     license:
       enable: true
       allow_derivatives: false

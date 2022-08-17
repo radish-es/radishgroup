@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Liam is a 1st year Law Student at the Schulich School of Law at Dalhousie University. He comes to Nova Scotia from Yellowknife, having grown up in the Northwest Territories and Nunavut. Liam saw firsthand the effects of food insecurity when he lived in Cambridge Bay, Nunavut. He is interested in Food Law and access to justice, especially when it comes to Indigenous peoples in Canada.
+bio: 
 
 interests:
 
@@ -44,3 +44,4 @@ user_groups:
 - Group Members
 ---
 
+Liam is a 2nd year Law Student at the Schulich School of Law at Dalhousie University. He comes to Nova Scotia from Yellowknife, having grown up in the Northwest Territories and Nunavut. Liam saw firsthand the effects of food insecurity when he lived in Cambridge Bay, Nunavut. He is interested in food law and access to justice, especially when it comes to Indigenous peoples in Canada.
