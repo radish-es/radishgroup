@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Student 1
+title: Liam Wilford
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests ...
+bio: Liam is a 1st year Law Student at the Schulich School of Law at Dalhousie University. He comes to Nova Scotia from Yellowknife, having grown up in the Northwest Territories and Nunavut. Liam saw firsthand the effects of food insecurity when he lived in Cambridge Bay, Nunavut. He is interested in Food Law and access to justice, especially when it comes to Indigenous peoples in Canada.
 
 interests:
 

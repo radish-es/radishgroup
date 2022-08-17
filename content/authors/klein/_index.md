@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Anna Giddy
+title: Adrienne Klein
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Manager 
+role: JD Research Student 
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests ...
+bio: Adrienne is currently going into her second year at the Schulich School of Law. She is initially from Toronto, Ontario, and developed an interest in food law during her Bachelor of Arts and Science at McMaster University. While studying there, she became particularly concerned about the effects of urban sprawl on available farmland throughout Ontario. Her interests in food law have evolved since then to include various topics within the food system, such as urban agriculture, food sovereignty, and sustainable farming practices.
 
 interests:
 
@@ -41,8 +41,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Managers
 - Group Members
 ---
 
-Anna is a second-year law student at the Schulich School of Law and is currently working as a student researcher with [Jamie Baxter](../jamie-baxter). She has a diploma in plant science from the Dalhousie Agricultural Campus, a diploma in viticulture and vineyard management from Niagara College and studied law, justice and society at Dalhousie University where she applied a food systems lens to political and philosophical concepts. Anna has worked in the restaurant industry, on farms and in wineries across Canada and internationally for the past 18 years. Originally from Lunenburg, she is thrilled to be home in Nova Scotia where she hopes to apply her love of food and law to help build resilience in the region's thriving food scene. 
