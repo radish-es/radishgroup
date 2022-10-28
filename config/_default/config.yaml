@@ -52,6 +52,12 @@ taxonomies:
   author: authors
 markup:
   _merge: deep
+  goldmark:
+    parser:
+      attribute:
+        block: true
+        title: true
+        item: true
 related:
   threshold: 80
   includeNewer: true
