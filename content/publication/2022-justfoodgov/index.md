@@ -26,7 +26,7 @@ publication_types: ['4']
 publication: 
 publication_short: 
 
-abstract: 
+abstract: "This report provides background to the context of collaborative food systems governance in the Halifax region and offers recommendations on building an effective governance structure for ongoing oversight and implementation of the JustFOOD Action Plan."
 
 # Summary. An optional shortened abstract.
 summary: Report containing background and recommendations for a governance structure to implement the JustFOOD Action Plan in the Halifax Regional Municipality. 
@@ -1676,9 +1676,8 @@ for this study:
 
 *Winnipeg Food Council*
 
-```{=tex}
 \newpage
-```
+
 # About the Authors {#about-the-authors .unnumbered}
 
 **Anna Giddy:** Anna is a third-year law student at the Schulich School

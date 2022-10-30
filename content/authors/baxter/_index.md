@@ -71,7 +71,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
 Jamie Baxter is an Associate Professor at the Schulich School of Law, Dalhousie University in Halifax, Nova Scotia.  
