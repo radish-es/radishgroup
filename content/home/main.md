@@ -26,7 +26,7 @@ design:
 
 ---
 
-# baxterlab.ca /
+## food/land/open learning
 # <a href="#projects" style="text-decoration: none">learn about our projects <i class="fa-solid fa-arrow-right"></i></a>
 
 <!--
