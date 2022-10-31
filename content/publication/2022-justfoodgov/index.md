@@ -1639,9 +1639,6 @@ relevant and respond to changing norms and values as new members seek
 input. As noted above, there are clear trade-offs here with respect to
 organizational stability and institutional knowledge.
 
-```{=tex}
-\newpage
-```
 # Appendix: Food Policy Council Dataset {#appendix-food-policy-council-dataset .unnumbered}
 
 We consulted publicly available documents for each of the following food
@@ -1675,8 +1672,6 @@ for this study:
 *Vancouver Food Policy Council*
 
 *Winnipeg Food Council*
-
-\newpage
 
 # About the Authors {#about-the-authors .unnumbered}
 
