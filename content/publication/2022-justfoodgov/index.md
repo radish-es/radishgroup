@@ -1699,9 +1699,6 @@ where and how their food is grown.
 of Law where he works on issues in food, agriculture and local
 government.
 
-```{=tex}
-\newpage
-```
 # Works Cited {#works-cited .unnumbered}
 
 <div id="refs" class="references csl-bib-body hanging-indent">
