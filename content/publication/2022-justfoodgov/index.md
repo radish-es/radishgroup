@@ -70,7 +70,7 @@ In 2019, the Halifax Regional Municipality (HRM) and the Halifax Food
 Policy Alliance (HFPA) committed to co-creating the *JustFOOD Action
 Plan*. The *Action Plan* will be the first regional food strategy for
 the HRM, one focused on strengthening the regional food system and
-enhancing community food security. JustFOOD is organized around five
+enhancing community food security. JustFOOD is organized around six
 concepts that originate from the *Milan Urban Food Policy Pact*:
 governance; social and economic equity; food production; food supply,
 processing, and distribution; health, wellness, and resilience; and food
