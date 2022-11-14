@@ -7,9 +7,9 @@ author:
 - Jamie Baxter
 - Anna Giddy
 authors:
-  - foster
-  - baxter
-  - giddy
+- foster
+- baxter
+- giddy
 csl: chicago.csl
 date: 2022-11-01
 institute:
@@ -18,11 +18,9 @@ link-bibliography: true
 link-citations: true
 month: November
 projects:
-  - workshop
+  - 
 subtitle: How Food Businesses Experience Regulation in Nova Scotia
 tags:
-- report
-- foodentrepreneurs
 title: Working at Odds
 typeset_info: false
 year: 2022
