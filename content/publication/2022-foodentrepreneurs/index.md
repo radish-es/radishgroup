@@ -358,9 +358,6 @@ accept what they don\'t understand." For this interviewee, there was a
 direct line between certain food practices like using pre-packaged meats
 and an overly structured, inflexible regulatory environment.
 
-\newpage\null\clearpage\thispagestyle{empty}\newpage
-\includepdf[pagecommand={}]{callout01.pdf}
-
 ### An Uneven Regulatory Playing Field
 
 Many of the food entrepreneurs we interviewed believed that the
@@ -849,9 +846,6 @@ needs to be taken into account when evaluating the design and
 implementation of food regulations ([Clapp and Moseley
 2020](#ref-clapp2020food)).
 
-\newpage\null\thispagestyle{empty}\newpage
-\includepdf[pagecommand={}]{callout02.pdf}
-
 ## Response Strategies
 
 Much of our interview data addressed the many regulatory challenges and
@@ -979,9 +973,6 @@ for regulatory compliance. This farmer had turned to a digital platform
 developed to assist with Canada GAP compliance but found that it was no
 panacea to overcome the need for a certain level of technical expertise
 and training.
-
-\newpage\null\thispagestyle{empty}\newpage
-\includepdf[pagecommand={}]{callout03.pdf}
 
 ## Ways Forward
 
@@ -1261,8 +1252,6 @@ enforcement are necessary and welcomed by food businesses across the
 province, who see themselves as active partners in strengthening the
 food system and making it more resilient over time.
 
-\newpage
-
 # About the Authors {#about-the-authors .unnumbered}
 
 **Dr. Karen Foster:** Dr. Foster is an Associate Professor in the
@@ -1279,6 +1268,9 @@ of Law.
 We would like to thank Linda Best, Founding Director and Co-Chair of
 FarmWorks Investment Co-operative Limited for her support in recruiting
 participants for this project.
+
+This report draws on research supported by the Social
+Sciences and Humanities Research Council.
 
 # References {#references .unnumbered}
 

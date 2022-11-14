@@ -12,7 +12,7 @@ role: Associate Professor
 # Organizations/Affiliations
 organizations:
 - name: "Department of Sociology and Social Anthropology, Dalhousie University"
-  url: ""
+  url: "https://www.dal.ca/faculty/arts/sociology-social-anthropology/faculty-staff/our-faculty/karen-foster.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
