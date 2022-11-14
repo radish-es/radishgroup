@@ -41,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://justfoodhalifax.ca/wp-content/uploads/2022/11/justfoodgov_report_Oct2022-3.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

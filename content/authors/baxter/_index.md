@@ -9,7 +9,7 @@ user_groups:
     - Principal Investigator
 
 # Role/position/tagline
-role: Associate Professor / PI
+role: Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -17,7 +17,7 @@ organizations:
     url: https://www.dal.ca/faculty/law/faculty-staff/our-faculty/jamie-baxter.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include local government, food and agricultural systems and open legal educaiton.  
+bio:  
 
 # Interests to show in About widget
 interests:

@@ -6,7 +6,7 @@ title: Anna Giddy
 superuser: false
 
 # Role/position
-role: Research Manager 
+role: Senior Research Student & Research Manager 
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests ...
+bio: 
 
 interests:
 
@@ -41,8 +41,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Managers
 - Group Members
 ---
 
-Anna is a second-year law student at the Schulich School of Law. She has a diploma in plant science from the Dalhousie Agricultural Campus, a diploma in viticulture and vineyard management from Niagara College and studied law, justice and society at Dalhousie University where she applied a food systems lens to political and philosophical concepts. Anna has worked in the restaurant industry, on farms and in wineries across Canada and internationally for the past 18 years. Originally from Lunenburg, she is thrilled to be home in Nova Scotia where she hopes to apply her love of food and law to help build resilience in the region's thriving food scene. 
+Anna is a third-year law student at the Schulich School of Law. She has a diploma in plant science from the Dalhousie Agricultural Campus, a diploma in viticulture and vineyard management from Niagara College and studied law, justice and society at Dalhousie University where she applied a food systems lens to political and philosophical concepts. Anna has worked in the restaurant industry, on farms and in wineries across Canada and internationally for the past 18 years. Originally from Lunenburg, she is thrilled to be home in Nova Scotia where she hopes to apply her love of food and law to help build resilience in the region's thriving food scene. 
