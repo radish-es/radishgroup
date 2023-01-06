@@ -30,6 +30,7 @@ tags:
 - oslaw
 - paper
 title: Exit, Voice and Disloyalty in Open Casebooks
+published: false
 ---
 
 # Part I: Introduction
