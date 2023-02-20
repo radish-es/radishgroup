@@ -5,15 +5,10 @@ headless: true
 
 weight: 20
 
-title: 'About'
-
-
-  
-
-
+title: 'About RADish'
 
 ---
 
-This is the web portal for [Jamie Baxter's](../authors/baxter) research group based at the Schulich School of Law, Dalhousie University. We work mainly on place-based projects related to land, local governance, and regional food systems, as well as initiatives to support open authorship in legal education. 
+The RADish [Research, Advocacy, Design] Group works on place-based legal projects dealing with food, land, governance and open authorship in legal education. The group's lead researcher, [Jamie Baxter](../authors/baxter), is based at the Schulich School of Law, Dalhousie University in Halifax, Nova Scotia. 
 
-On this site you will find info about our [current and past projects](#projects), [members in the group](#people), and access to [recent publications](#publications). Some projects are hosted on their own site--please feel free to explore.
+See our [current and past projects](#projects), read about [members in the group](#people), and access [recent publications](#publications). Some projects are hosted on their own sites--please feel free to explore.

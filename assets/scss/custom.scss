@@ -1,3 +1,15 @@
 /*For references in docs generated through pandoc*/
 
 .references div {margin-bottom: 20px;}
+
+/*Alert Callout*/
+
+.alert-note {
+    color: #cc0000;
+    background-color: rgb(255, 230, 230);
+    border-color: #000;
+}
+
+.alert-note aside p::before, div.alert > div:first-child::before {
+    color: #cc0000;
+}

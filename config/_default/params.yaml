@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: radish
+  theme_night: radish
   font: minimal
   font_size: M
 
@@ -35,7 +35,7 @@ header:
     align: l
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: true
     highlight_active_link: true
 
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Jamie Baxter. This work is licensed under {license}. <br/> <a href="https://www.flaticon.com/free-icons/letter-b" title="letter b icons">Letter b icons created by popo2021 - Flaticon</a>'
+    notice: '© {year} Jamie Baxter. This work is licensed under {license}.'
     license:
       enable: true
       allow_derivatives: false
