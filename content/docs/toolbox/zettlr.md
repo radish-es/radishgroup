@@ -11,13 +11,21 @@ Instead of using a word processor, we'll write almost everything in plain text u
 
 Plain text files written in Markdown can be authored using any number of apps. We'll use an app called [Zettlr](https://zettlr.com) because it provides some basic functionality we need to build our knowledge ecosystem with notes and write longer academic papers and reports with full citations.
 
+{{% callout warning %}}
+
+**Obsidian**
+
+Zettlr is still a great application for writing markdown notes and documents for our research, but an alternative tool called [Obsidian](https://obsidian.md) is gaining popularity and has some different features and advantages. The docs don't currently cover setup of Obsidian as an alternative to Zettlr, but if you want to experiment with this software let Jamie know.
+
+{{% /callout %}}
+
 ## Installing Zettlr
 
 Visit the [Zettlr download page](https://zettlr.com/download) and install the version of Zettlr appropriate to your operating system. 
 
 Once you've installed the software, it is worth reviewing the [Zettlr documentation](https://docs.zettlr.com/en/) for an overview or further details as needed. 
 
-## Setting up citations
+## Setting up the Citations Function
 
 You'll need to complete one final step in order to take advantage of Zettlr's ability to import citations directly from the shared reference library maintained by Zotero. 
 

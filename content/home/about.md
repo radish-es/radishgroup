@@ -5,10 +5,10 @@ headless: true
 
 weight: 20
 
-title: 'About RADish'
+title: 'Radish Group'
 
 ---
 
-Our research group works on place-based legal projects dealing with food, land, governance and open authorship in legal education. The group is led by [Jamie Baxter](../authors/baxter) and based at the Schulich School of Law, Dalhousie University in Halifax, Nova Scotia. 
+Our group works on place-based initiatives dealing with legal and regulatory dimensions of food, land, governance and open authorship in legal education. **Rad**ish (**R**esearch/**A**ction/**D**esign) is led by [Dr. Jamie Baxter](../authors/baxter) and based at the Schulich School of Law, Dalhousie University in Halifax, Nova Scotia, Canada. 
 
 See our [current and past projects](#projects), read about [members in the group](#people), and access [recent publications](#publications). Some projects are hosted on their own sites--please feel free to explore.

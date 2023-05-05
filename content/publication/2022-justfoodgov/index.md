@@ -58,7 +58,7 @@ image:
   preview_only: false
 
 projects:
-  - workshop
+  - justfoodgov
 
 slides: ''
 

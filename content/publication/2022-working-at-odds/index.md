@@ -18,7 +18,7 @@ link-bibliography: true
 link-citations: true
 month: November
 projects:
-  - 
+  - foodgov
 subtitle: How Food Businesses Experience Regulation in Nova Scotia
 tags:
 title: Working at Odds

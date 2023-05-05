@@ -5,10 +5,9 @@ type: book
 weight: 2
 ---
 
-We want the directory structure used to store files on [NextCloud](../../toolbox/nextcloud.md) to be as "flat" as possible. The goal is to avoid several layers of nested sub-folders that make it difficult to locate information by creating an inflexible structure that fails to reflect how discrete pieces connect to one another.
+We want the directory structure used to store files on [NextCloud](../../toolbox/nextcloud) to be as "flat" as possible. The goal is to avoid several layers of nested sub-folders that make it difficult to locate information because they create an inflexible structure for information--one that fails to reflect how discrete pieces of knowledge actually connect to one another.
 
-
-{{% callout note %}}
+{{% callout warning %}}
 
 Apart from a few high-level folders, use ***tags*** rather than folders to organize information. 
 

@@ -2,11 +2,11 @@
 title: Food Law Workshop
 summary: Legal resources to support regional food systems.
 tags:
-  - "Food and Agriculture"
+  - "Food Systems"
 date: '2022-07-20'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://www.foodlawworkshop.com'
+# external_link: 'https://www.foodlawworkshop.com'
 
 image:
   caption: 

@@ -27,8 +27,8 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Food and Agriculture
-      tag: Food and Agriculture
+    - name: Food Systems
+      tag: Food Systems
     - name: Open Law
       tag: Open Law
 

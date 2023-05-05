@@ -15,7 +15,7 @@ thanks: ""
 publication_types: [3]
 publication: "Food Law and Policy in Canada, Heather McLeod-Kilmurray, Angela Lee, Nathalie Chalifour, eds (Carswell)"
 projects:
-  - workshop
+  - justfoodgov
 
 numbersections: true
 secnumdepth: 2

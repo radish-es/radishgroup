@@ -5,7 +5,7 @@ type: book
 weight: 1
 ---
 
-Each file you create or acquire has a home in the filesystem. Below is an overview of where each type of file should live. Understanding this structure will help you and others to know exactly where to locate relevant files rapidly when you need them. 
+Each file you create or acquire has a pre-determined home in the filesystem. Below is an overview of where each type of file should live. Understanding this structure will help you and others to know exactly where to locate relevant files rapidly when you need them. 
 
 ## Zotero Reference Library
 
@@ -27,6 +27,6 @@ Each file you create or acquire has a home in the filesystem. Below is an overvi
 
 - confidential or otherwise sensitive data.
 
-## Your Local Computer
+## Only Your Local Computer
 
 - [bibtex export file](../../toolbox/bibtext) for citing to the reference library in your written documents.

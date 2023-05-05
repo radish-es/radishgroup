@@ -26,6 +26,6 @@ design:
 
 ---
 
-## research / advocacy / design
+## research / action / design
 # <a href="#projects" style="text-decoration: none">learn about our projects <i class="fa-solid fa-arrow-right"></i></a>
 

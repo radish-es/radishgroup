@@ -3,6 +3,7 @@ title: "Workflows"
 linktitle: "Workflows"
 type: book
 weight: 30
+published: false
 ---
 
 Workflows are the stepwise processes that help us to organize research consistently and methodically, giving you the confidence to draw genuine insights from your data. Below is an example of one main workflow: secondary source research. For now, this workflow is mainly for illustrative purposes. We will adapt this one and add others as we need them.  

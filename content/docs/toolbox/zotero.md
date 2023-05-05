@@ -17,7 +17,7 @@ So, if I have located a journal article with the following citation:
 
 Zotero stores this citation information along with a ```pdf``` copy of the article in its database. 
 
-You may also have used Zotero or similar software to cite sources in your Microsoft Word documents and to process those citations to create footnotes and/or bibliographies in the final draft. We won't use Zotero for this purpose -- that's all taken care of by another program we use for writing and citation called [Zettlr](./zettlr).
+You may also have used Zotero or similar software to cite sources in your Microsoft Word documents and to process those citations to create footnotes and/or bibliographies in the final draft. We won't use Zotero for this purpose -- that's all taken care of by another program we use for writing and citation called [Zettlr](../zettlr).
 
 ## Accessing the shared reference library
 
@@ -37,19 +37,19 @@ Visit the [desktop app download page](https://www.zotero.org/download/), downloa
 
 Once Zotero is up and running on your computer, select ```Zotero > Preferences > Sync```, then link to the Workshop account using the Zotero login and password stored on Sharepoint. Then click "Set Up Synching". 
 
-![](/media/zotero1.jpg)
+![](/zotero1.jpg)
 
-After this step is completed, you should see a series of options in the dialogue box. Click "Choose Libraries". Ensure that "flw" is selected with a green checkbox and that all other libraries (including "My Library") is unselected with a red sign as follows:
+After this step is completed, you should see a series of options in the dialogue box. Click "Choose Libraries". Ensure that ```radish``` is selected with a green checkbox and that all other libraries (including "My Library") is unselected with a red sign as follows:
 
-![](/media/zotero2.jpg)
+![](/zotero2.jpg)
 
 Click OK. Your Zotero library should now be synched with the cloud.
 
-## Zotero Library (flw)
+## Zotero Library (```radish```)
 
-Once Zotero completes its initial sync, you should see a heading in the left window pane entitled "Group Libraries" and under that a folder called "flw". This is the shared reference library for the Workshop--all of your citations should live in this folder. Don't create additional folders or sub-folders to organize your citations--use [tags](../../files/tags) for this purpose instead (for example, by tagging each citation to one or more projects and topics).
+Once Zotero completes its initial sync, you should see a heading in the left window pane entitled "Group Libraries" and under that a folder called ```radish```. This is our shared reference library--all of your citations should live in this folder. Don't create additional folders or sub-folders to organize your citations--use [tags](../../files/tags) for this purpose instead (for example, by tagging each citation to one or more projects and topics).
 
-When you click on a citation in the reference library, you'll notice that a "notes" tab appears at the right-hand side. *Don't use this to make notes on your sources*. All notes should be written in [Markdown](../../writing/markdown) and stored in the appropriate folder on [NextCloud](../../files/directories).
+When you click on a citation in the reference library, you'll notice that a "notes" tab appears at the right-hand side. ***Don't use this to make notes on your sources***. All notes should be written in [Markdown](../../writing/markdown) and stored in the appropriate folder on [NextCloud](../../files/directories).
 
 ## Enable Zotero Connector for Safari
 

@@ -16,12 +16,12 @@ authors:
   - loewen 
 bibliography: ./oslaw.bib
 csl: ./mcgill-en.csl
-date: 2022-10-30
+date: 2023-04-01
 email: jamie.baxter@dal.ca
 numbersections: true
 projects:
   - opensourcelaw
-publication: 10 Canadian Legal Education Annual Review (forthcoming)
+publication: 10 Canadian Legal Education Annual Review 103
 publication_types:
 - 3
 secnumdepth: 2
@@ -30,7 +30,7 @@ tags:
 - oslaw
 - paper
 title: Exit, Voice and Disloyalty in Open Casebooks
-published: false
+published: true
 ---
 
 # Part I: Introduction

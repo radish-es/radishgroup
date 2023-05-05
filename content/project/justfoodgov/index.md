@@ -1,12 +1,12 @@
 ---
-title: opensourcelaw.ca
-summary: Building a new platform for collaborative open legal publishing
+title: "Collaborative Governance: Halifax's JustFOOD Plan"
+summary: Mixed methods to understand governance and regulatory complexity in food.
 tags:
-  - "Open Law"
+  - "Food Systems"
 date: '2022-07-20'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://www.opensourcelaw.ca'
+# external_link: ''
 
 image:
   caption: 
@@ -25,3 +25,9 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+<small>Image by [Clint Adair](https://unsplash.com/photos/BW0vK-FA3eg) on Unsplash</small>
+
+## 
+
+Community-based research to support governance of the Halifax Region's new JustFOOD Action Plan. 
