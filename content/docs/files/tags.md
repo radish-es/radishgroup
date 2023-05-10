@@ -9,7 +9,11 @@ Ensuring that you tag your notes and documents is essential for good data organi
 
 ```
 ---
-tags: [farmland, commons, note]
+tags: 
+  - farmland
+  - commons
+  - governance
+  - report
 ---
 ```
 
@@ -19,4 +23,4 @@ Ultimately, tags are flexible tools that allow a system of file organization to 
 
 - Always include one or more topic tags that include keywords based on the content of the note or doc (e.g. ```leases```, ```non-profit governance```).
 
-- Try to include one or more projects tags that associate a file with relevant projects (e.g. ```projectname```). It is a good idea to agree on a unique tag for each project ahead of time and make sure this corresponds to both the folder name on NextCloud and the relevant channel on Mattermost. 
+- Project names associated with a note or document should go a separate ```project:``` field. The project name should be the same of that of the relevant "projects" folder on NextCloud (e.g. ```foodgov```, ```foodentrepreneurs```).
